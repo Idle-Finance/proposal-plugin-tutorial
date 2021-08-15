@@ -104,8 +104,6 @@ We will write the proposal script under the `scripts/` sub directory
 ~/tutorial/scripts$ touch propose.js
 ```
 
-For the purposes of this tutorial the instructions for deploying the C.R.E.A.M. wrapper is out of scope, however if you did want to follow along the full instructions can be accessed at this repo: https://github.com/asafsilman/test-usdt-proposal
-
 We can develop the proposal script under `scripts/propose.js`
 
 First lets setup some boilerplate task defenition
